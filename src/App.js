@@ -5,13 +5,11 @@ import "./styles.css";
 
 function App() {
   const [repositories, setRepositories] = useState([]);
-  console.log("teste fora");
 
   useEffect(() => {
     api.get("repositories").then((response) => {
       setRepositories(response.data);
     });
-    console.log("teste dentro");
   }, []);
 
   async function handleAddRepository() {
