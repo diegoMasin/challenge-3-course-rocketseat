@@ -1,3 +1,5 @@
+![Alt text](https://github.com/diegoMasin/maximumtech/blob/master/assets/img/logo-colorida.png)<br>
+
 # Desafio 3 - Curso GoStack Rocketseat
 
 ```Seguindo o template proposto, criar as seguintes funcionalidades no frontend:```
@@ -9,8 +11,14 @@
 
 ### Instalação Local
 Depende do projeto backend rodando em **http://localhost:3333**. Segue link do repositório: https://github.com/diegoMasin/desafio-2-curso-rocketseat
+```
 - git clone https://github.com/diegoMasin/desafio-3-curso-rocketseat.git
+```
+```
 - execute no terminal dentro da pasta do projeto: **yarn**
+```
 Obs: Instale o yarn no seu sistema operacional, se caso não tenha.
+```
 - para rodar o projeto execute no terminal: **yarn start**
+```
 Obs: endereço do frontend ficará em: **http://localhost:3000** (abre o navegador automaticamente)
